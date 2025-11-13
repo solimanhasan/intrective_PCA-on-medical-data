@@ -1,0 +1,7 @@
+libraryies:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- mpl_toolkits
